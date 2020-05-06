@@ -1,7 +1,7 @@
 ## Material and Mouse driven theme for [AwesomeWM 4.3](https://awesomewm.org/)
 ### Original work by PapyElGringo, official development seem to have moved to [material-shell](https://github.com/PapyElGringo/material-shell)
 
-Note: This fork is more of a personal fork for myself, mostly tuning it to my liking.
+Note: This branch aims to switch to picom for the compositor as kawase blur is something I find unneccesary and buggy.
  
 An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) following the [Material Design guidelines](https://material.io) with a performant opiniated mouse/keyboard workflow to increase daily productivity and comfort.
 
@@ -21,7 +21,7 @@ An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) foll
 - [AwesomeWM](https://awesomewm.org/) as the window manager
 - [Roboto](https://fonts.google.com/specimen/Roboto) as the **font**
 - [Rofi](https://github.com/DaveDavenport/rofi) for the app launcher
-- [Compton fork](https://github.com/tryone144/compton) for the compositor (blur and animations)
+- [Picom](https://github.com/yshui/picom) for the compositor (animations)
 - [i3lock-fancy](https://github.com/meskarune/i3lock-fancy) the lockscreen application
 - [xclip](https://github.com/astrand/xclip) for copying screenshots to clipboard
 - __gnome-keyring-daemon__ and a __policykit-agent__ (by default policykit-1-gnome is enabled)
