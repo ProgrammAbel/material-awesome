@@ -1,8 +1,8 @@
 ## Material and Mouse driven theme for [AwesomeWM 4.3](https://awesomewm.org/)
 ### Original work by PapyElGringo, official development seem to have moved to [material-shell](https://github.com/PapyElGringo/material-shell)
 
-Note: This fork focuses on streamlining the config and adding some Quality of Life touches to the theme.
-
+Note: This fork is more of a personal fork for myself, mostly tuning it to my liking.
+ 
 An almost desktop environment made with [AwesomeWM](https://awesomewm.org/) following the [Material Design guidelines](https://material.io) with a performant opiniated mouse/keyboard workflow to increase daily productivity and comfort.
 
 [![](./theme/PapyElGringo-theme/demo.gif?raw=true)](https://www.reddit.com/r/unixporn/comments/anp51q/awesome_material_awesome_workflow/)
