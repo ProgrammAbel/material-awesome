@@ -11,12 +11,12 @@ configuration {
 }
 
 * {
-	background-color:            rgb(18, 30, 37);
+	background-color:            rgb(37, 18, 18);
 	text-color:                  #d3d7cf;
-	selbg:                       rgb(0, 86, 136);
-	actbg:                       rgb(22, 37, 46);
+	selbg:                       rgb(136, 0, 0);
+	actbg:                       rgb(46, 22, 22);
 	urgbg:                       #e53935;
-	winbg:			     #26c6da;
+	winbg:			     #da2626;
 
 	selected-normal-foreground:  @winbg;
 	normal-foreground:           @text-color;
@@ -91,7 +91,7 @@ element {
 entry {
 	expand:         true;
 	text-color:     @normal-foreground;
-	background-color: rgb(25, 41, 51);
+	background-color: rgb(51, 25, 25);
 	vertical-align: 1;
 	padding:        12px;
 	font:            "Roboto medium 13";
