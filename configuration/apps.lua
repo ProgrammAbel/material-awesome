@@ -20,7 +20,7 @@ return {
     -- associated with each tag/workspace
     browser = 'firefox',
     editor = 'kitty vim', -- gui text editor
-    social = 'slack',
+    social = 'discord',
     game = rofi_command,
     files = 'caja',
     music = 'kitty ncmpcpp'
