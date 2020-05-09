@@ -19,7 +19,7 @@ return {
     -- Editing these also edits the default program
     -- associated with each tag/workspace
     browser = 'firefox',
-    editor = 'kitty vim', -- gui text editor
+    editor = 'kitty', -- terminal
     social = 'discord',
     game = rofi_command,
     files = 'caja',
